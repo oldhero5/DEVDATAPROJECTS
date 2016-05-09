@@ -1,12 +1,20 @@
-Developing Data Products Project - LEGO Sets Visualization  
-==========================================================
+Developing Data Prododucts - CourseProject
+=========================
+This is a submission for Coursera: Developing Data Products- Course Project
 
-This Shiny App is for searching and visulizating LEGO Sets information.    
-The dataset is from [Rebrickable.com](http://rebrickable.com/) that contains the basic information of each set (set id, year, number of pieces, theme, set name).  
-Data Source: http://rebrickable.com/downloads  
-**Note**: Since I didn't use the API to collect data, the current data might not be 100% accurate.  
+Storm Data Explorer
+==================
 
-The project is on Shiny User Showcase page (Shiny Apps with popular appeal): https://gallery.shinyapps.io/lego-viz.  
-It can also be found here: https://xiaodan.shinyapps.io/LegoSetViz.
+This application is based on the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database.
 
+Dataset has been obtained from [here](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2) and processed for the course project. This is the same file we used for the Cousera's Reproduciable Research Course.
+
+Storms and other severe weather events can cause both public health and economic problems for communities and municipalities. Many severe events can result in fatalities, injuries, and property damage, and preventing such outcomes to the extent possible is a key concern.
+
+Source code for the project is available on the [GitHub](https://github.com/Senthilkumar-k/DevDataProd-CourseProject).
+
+The presentation for the project can be found [here](http://rpubs.com/senthilkumar_k/49447)
+
+You can adjust date range and event types using control panel located on the left side.The result is shown in the main pannel on the right sideof the page.
+Also filtered dataset can be downloaded using data tab.
 
